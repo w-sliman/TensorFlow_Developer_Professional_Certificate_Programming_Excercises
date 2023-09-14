@@ -38,7 +38,7 @@ These Programming Exercises are part of the deeplearning.ai TensorFlow Developer
 # Course2 - Convolutional Neural Networks in TensorFlow
 
 ## Week1
-### [W1A1 - Cats vs Dogs](https://github.com/w-sliman/TensorFlow_Developer_Professional_Certificate_Programming_Excercises/blob/main/Course2%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week1/C2W1_Assignment.ipynb)
+### [W1A1 - Using CNN's with the Cats vs Dogs Dataset](https://github.com/w-sliman/TensorFlow_Developer_Professional_Certificate_Programming_Excercises/blob/main/Course2%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week1/C2W1_Assignment.ipynb)
 **Learning Objective:**
 - Gain understanding about Keras’ utilities for pre-processing image data, in particular the ImageDataGenerator class
 - Develop helper functions to move files around the filesystem so that they can be fed to the ImageDataGenerator
