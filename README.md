@@ -72,6 +72,47 @@ These Programming Exercises are part of the deeplearning.ai TensorFlow Developer
 
 # Course3 - Natural Language Processing in TensorFlow
 
+## Week1
+### [W1A1 - Explore the BBC News archive]()
+**Learning Objective:**
+- Implementing functions to process various text data processing ranging from pre-processing, reading from raw files and tokenizing text. 
+
+## Week2
+### [W2A1 - Diving deeper into the BBC News archive]()
+**Learning Objective:**
+- Implementing a neural network capable of classifying text
+- Learned about embeddings and tokenization along the way 
+
+## Week3
+### [W3A1 - Exploring overfitting in NLP]()
+**Learning Objective:**
+- Implemented a neural network capable of classifying sentiment in text data while doing a fairly good job of not overfitting! 
+
+## Week4
+### [W4A1 - Predicting the next word]()
+**Learning Objective:**
+- Implementing a neural network capable of predicting the next word in a sequence of text 
 
 # Course4 - Sequences, Time Series and Prediction
 
+## Week1
+### [W1A1 - Working with time series]()
+**Learning Objective:**
+- Implementing functions for time series splitting
+- Evaluation while also learning how to deal with time series data
+- How to code forecasting methods
+
+## Week2
+### [W2A1 - Predicting time series]()
+**Learning Objective:**
+- Implementing a neural network capable of forecasting time series while also learning how to leverage Tensorflow's Dataset class to process time series data
+
+## Week3
+### [W3A1 - Forecast using RNNs or LSTMs]()
+**Learning Objective:**
+- Implementing a neural network capable of forecasting time series leveraging Tensorflow's layers for sequence modelling such as `RNNs` and `LSTMs`
+
+## Week4
+### [W4A1 - Using real world data]()
+**Learning Objective:**
+- implementing a neural network capable of forecasting time series leveraging a combination of Tensorflow's layers such as Convolutional and LSTMs! This resulted in a forecast that surpasses all the ones done previously
